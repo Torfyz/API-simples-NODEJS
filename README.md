@@ -1,7 +1,3 @@
-Aqui está uma descrição detalhada para o seu repositório no GitHub:
-
----
-
 ## Descrição do Projeto
 
 Este projeto é uma API para gerenciamento de usuários, desenvolvida utilizando Node.js e Express para a criação de endpoints e MongoDB para o armazenamento de dados. A API permite operações de criação e consulta de usuários, fornecendo uma base sólida para sistemas que necessitam de gerenciamento de usuários.
